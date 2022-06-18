@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JalMurH
-- 👀 I’m interested in wep developing, informatic security and aplications of NeuronalNets inf ingeniering
+- 👀 I’m interested in wep developing, informatic security and aplications of NeuronalNets in engineering
 - 🌱 I’m currently learning a base couse for developing on my themes of interest
 - 💞️ I’m looking to collaborate on If I can contribute I will. I really like what the community has achieved with opensource
 - 📫 How to reach me  
